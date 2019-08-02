@@ -13,3 +13,7 @@ https://github.com/github/linguist#documentation
 ```ini
 README.md linguist-documentation=false
 ```
+
+Does this repo have a language bar? No? Then it didn't work. It does? Awesome.
+
+- [ ] Find out (low priority background process, might take a while)
