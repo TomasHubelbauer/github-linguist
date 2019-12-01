@@ -1,10 +1,10 @@
-# GitHub MarkDown Savant
+# GitHub Linguist MarkDown
 
 GitHub uses Linguist, a "language savant" library for detecting languages in a repository
-and rendering the language statistics bar in the repository GitHub page.
+and rendering the language bar on the repository GitHub page.
 
 I have a lot of MarkDown-only repositories which serve as reference for me and I don't like
-how in repository lists and in the repository page they show no language statistics bar.
+how in repository lists and in the repository page they show no language bar.
 
 This is possible to fix using `.gitattributes`:
 
