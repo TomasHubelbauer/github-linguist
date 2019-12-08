@@ -1,5 +1,7 @@
 # GitHub Linguist MarkDown
 
+[**WEB**](https://tomashubelbauer.github.io/github-linguist-markdown)
+
 GitHub uses Linguist, a "language savant" library for detecting languages in a repository
 and rendering the language bar on the repository GitHub page.
 
