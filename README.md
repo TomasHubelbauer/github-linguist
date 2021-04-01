@@ -1,7 +1,5 @@
 # GitHub Linguist
 
-[**WEB**](https://tomashubelbauer.github.io/github-linguist)
-
 GitHub uses Linguist, a "language savant" library for detecting languages in a repository
 and rendering the language statistics bar on the repository page.
 
@@ -26,5 +24,3 @@ be treated as the source code of the repository itself.
 ```ini
 tool/* linguist-vendored
 ```
-
-## To-Do
